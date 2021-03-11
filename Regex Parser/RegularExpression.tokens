@@ -1,0 +1,9 @@
+SYMBOL=1
+LPAREN=2
+RPAREN=3
+STAR=4
+OR=5
+'('=2
+')'=3
+'*'=4
+'|'=5
